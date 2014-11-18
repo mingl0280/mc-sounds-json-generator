@@ -1,0 +1,10 @@
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Debug\MCSoundsJSONGenerator.exe
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Debug\MCSoundsJSONGenerator.pdb
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Debug\MCSoundsJSONGenerator.xml
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.Form1.resources
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.Resources.resources
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.vbproj.GenerateResource.Cache
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.exe
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.xml
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.pdb
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Debug\MCSoundsJSONGenerator.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MCSoundsJSONGenerator
+</name>
+</assembly>
+<members>
+<member name="P:MCSoundsJSONGenerator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MCSoundsJSONGenerator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MCSoundsJSONGenerator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:MCSoundsJSONGenerator.Form1.JSONFile.#ctor(System.String,System.String)">
+	<summary>
+ init a half-json file
+ </summary>
+	<param name="a">Catagory Name</param>
+	<param name="b">Catagory Content</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

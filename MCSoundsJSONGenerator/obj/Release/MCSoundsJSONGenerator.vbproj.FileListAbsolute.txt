@@ -1,0 +1,11 @@
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Release\MCSoundsJSONGenerator.exe
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Release\MCSoundsJSONGenerator.pdb
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Release\MCSoundsJSONGenerator.xml
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.Form1.resources
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.Resources.resources
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.vbproj.GenerateResource.Cache
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.exe
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.xml
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.pdb
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\bin\Release\MCSoundsJSONGenerator.exe.config
+E:\VS2012\vb.net\MCSoundsJSONGenerator\MCSoundsJSONGenerator\obj\Release\MCSoundsJSONGenerator.vbprojResolveAssemblyReference.cache
